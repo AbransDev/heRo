@@ -8,19 +8,31 @@ heRo, temel olarak aksiyon ve platform ögeleri içeren, oynanışı akıcı ve 
 
 🚀 Kullandığım Teknolojiler ve Sorumluluklarım
 
+
 Unity (2D oyun geliştirme)
+
 C# (Oyun mantığı ve mekanikler)
+
 Oyun içi karakter kontrolleri, düşman AI’sı ve temel fizik
+
 Ekip içinde tek yazılımcı olarak kod tarafını tamamen üstlendim
+
+
 
 🧠 Bu Proje Bana Neler Kazandırdı?
 
+
 Kısa sürede işleyen bir oyun prototipi geliştirme deneyimi
+
 Ekip çalışması ve iş bölümü süreçlerini öğrenme
+
 Unity’de temel oyun mekanikleri, animasyon ve input sistemleri üzerine pratik
+
 Game jam formatında zaman yönetimi ve önceliklendirme
 
+
 🎯 Platform ve Oynanış
+
 
 2D Aksiyon / Platform türünde bir oyun
 
