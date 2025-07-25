@@ -40,3 +40,6 @@ Oyunun oynanışı ve detayları için:
 
 PC - Windows
 [itch.io Sayfası](https://hilalu.itch.io/hero)
+
+![lFlXVm](https://github.com/user-attachments/assets/e88e727b-4a81-47c9-926e-6234a447dd83)
+
